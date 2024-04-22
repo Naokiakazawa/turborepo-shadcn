@@ -14,10 +14,10 @@
     "prettier": "^3.2.5",
     "turbo": "^1.12.5"
   },
-  "packageManager": "pnpm@8.15.4",
   "engines": {
     "node": ">=18",
     "npm": "use_pnpm_instead",
-    "yarn": "use_pnpm_instead"
+    "yarn": "use_pnpm_instead",
+    "pnpm": ">=9"
   }
 }
